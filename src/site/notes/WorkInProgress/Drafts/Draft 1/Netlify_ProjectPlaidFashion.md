@@ -8,3 +8,16 @@
 [Home Page](https://coruscating-donut-fd36b2.netlify.app/)
 
 This is provided by the _Digital Garden_ plugin for Obsidian.
+
+
+Site Menu
+
+```dataview
+list
+from
+    "WorkInProgress/Drafts/Draft 1" 
+where
+    dg-publish=true
+```
+
+
